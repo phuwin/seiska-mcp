@@ -91,5 +91,4 @@ Thumbs.db
 *.swo
 
 # Build output
-dist/
 build/ 
