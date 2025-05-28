@@ -49,6 +49,14 @@ npm start
 
 The server runs on stdio transport and is designed to be used with MCP-compatible clients.
 
+### Running the MCP Server with MCP Client
+
+```json
+  "MCP Seiska server": {
+    "command": "node",
+    "args": ["path/to/this/directory/dist/mcp/server.js"]
+  }
+```
 ### Available Tools
 
 #### fetchArticles
